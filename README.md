@@ -63,4 +63,4 @@ python src/main.py
 
 ## Лицензия
 
-Проект распространяется под лицензией [MIT License](LICENSE).
+Проект распространяется под лицензией [MIT License](LICENCE).
