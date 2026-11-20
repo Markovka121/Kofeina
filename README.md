@@ -52,3 +52,15 @@ python src/main.py
 
 
 ![alt text](images/GUI.png)
+
+
+
+
+
+
+
+
+
+## Лицензия
+
+Проект распространяется под лицензией [MIT License](LICENSE).
