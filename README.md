@@ -49,4 +49,4 @@ python src/main.py
 # Интерфейс приложения
 
 
-![alt text](images\GUI.png)
+![alt text](images/GUI.png)
